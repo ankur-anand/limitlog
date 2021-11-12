@@ -1,0 +1,10 @@
+2
+ADD 56 the first
+SEARCH the 1
+
+ADD 25 the second log
+SEARCH the 2
+ADD 67 the third log
+SEARCH the 3
+SEARCH fourth 1
+END
